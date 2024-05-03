@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Jamerson Macedo, a Android Devekioer👨‍💻 🚀</div>  
+### <div align="center">I'm Jamerson Macedo, a Android Developer👨‍💻 🚀</div>  
   
 
 - Greetings! I'm a passionate Android developer with solid expertise in Kotlin, dedicated to transforming innovative ideas into unique digital experiences. With a solid background in mobile application development, I am committed to technological advancement through intuitive and efficient solutions.  
