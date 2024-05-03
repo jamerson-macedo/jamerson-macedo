@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React Native  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to stack and related technologies  
   
 
 <br/>  
